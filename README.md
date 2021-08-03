@@ -1,2 +1,2 @@
-# Imc_Java_01
+# Imc_Java_02
 Calculador de IMC em java
